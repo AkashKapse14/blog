@@ -1,0 +1,1 @@
+ALTER TABLE Student ADD  mobile VARCHAR(20);
